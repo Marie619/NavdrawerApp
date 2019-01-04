@@ -1,2 +1,2 @@
 # NavdrawerApp
-this app will be used in helping the nav drawer
+This app will help us in building a quick navigation drawer
